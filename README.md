@@ -1,9 +1,7 @@
 ## Salve 👋
 
 - 🔭 Me encontro atualmente estudando
-- 🌱 Estudando: Python
 - 🤔 Procuro alguém pra me ensinar sobre python
-- ⚡ Fato curioso: Adoro gatinhos
 
 <div align="center">
   <a href="https://twitter.com/Juniorlynsky">
